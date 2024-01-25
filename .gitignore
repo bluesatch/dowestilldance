@@ -1,1 +1,4 @@
-/addons
+
+.vercel
+*-lock.json
+/node_modules
